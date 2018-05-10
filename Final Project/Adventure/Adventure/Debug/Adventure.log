@@ -1,0 +1,5 @@
+﻿  Adventure.cpp
+c:\users\aidan\documents\final project\adventure\adventure\adventure.cpp(99): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\aidan\documents\final project\adventure\adventure\adventure.cpp(111): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Adventure.vcxproj -> C:\Users\Aidan\Documents\Final Project\Adventure\Debug\Adventure.exe
+  Adventure.vcxproj -> C:\Users\Aidan\Documents\Final Project\Adventure\Debug\Adventure.pdb (Partial PDB)

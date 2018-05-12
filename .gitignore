@@ -3,3 +3,9 @@
 ################################################################################
 
 *.suo
+/.vs/Final/v15/Browse.VC.db
+/.vs
+/Final Project/Adventure/.vs
+/Final Project/Adventure/Adventure/x64/Debug
+/Final Project/Adventure/x64/Debug
+/Final Project/Adventure/Adventure/Adventure.vcxproj.user
